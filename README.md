@@ -26,7 +26,7 @@ This project is a CPU scheduler simulation implemented using C++, Flask, HTML, C
    3. Clone the project repository from GitHub:
    
    ```bash
-   git clone https://https://github.com/IshaanJainOfficial/CPU_SCHEDULER
+   git clone https://github.com/IshaanJainOfficial/CPU_SCHEDULER
    ```
    
    4. Navigate to the project directory:
