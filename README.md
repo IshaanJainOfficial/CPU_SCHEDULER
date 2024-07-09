@@ -5,44 +5,46 @@
 This project is a CPU scheduler simulation implemented using C++, Flask, HTML, CSS, and JavaScript. It provides a web interface to simulate different CPU scheduling algorithms such as First Come First Serve (FCFS), Shortest Job Next (SJN), Priority Scheduling, Round Robin, and Shortest Remaining Time First (SRTF). Users can input process details and select an algorithm to visualize the scheduling process and view performance metrics.
 
 ## How to Run the Project
-1.Open your VS Code as administrator.
-
-2.Run Python environment:
-
+   
+   1.Open your VS Code as administrator.
+   
+   2.Run Python environment:
+   
    ```bash
-    python -m venv venv
-
-For Windows:
-
-```bash
-    .\venv\Scripts\activate
-
-For macOS/Linux :
-
-```bash
-    source venv/bin/activate
-
-
-3. Clone the project repository from GitHub:
-
+   python -m venv venv
+   ```
+   For Windows:
+   ```bash
+   .\venv\Scripts\activate
+   ```
+   For macOS/Linux :
+   ```bash
+   source venv/bin/activate
+   ```
+      
+   
+   3. Clone the project repository from GitHub:
+   
    ```bash
    git clone https://https://github.com/IshaanJainOfficial/CPU_SCHEDULER
-4. Navigate to the project directory:
-
+   ```
+   
+   4. Navigate to the project directory:
+   
    ```bash
    cd CPU-Scheduler
-
-5. Install the required dependencies using pip:
-
+   ```
+   5. Install the required dependencies using pip:
+   
    ```bash
    pip install -r requirements.txt
+   ``` 
+   6. Run the Flask web application:
    
-6. Run the Flask web application:
-
    ```bash
    python app.py
-
-7. Access the project in your web browser at http://localhost:5000
+   ```
+   7. Access the project in your web browser at http://localhost:5000
 
 
 ## Internal Working
